@@ -1,0 +1,33 @@
+C:\Users\Lab1_1\source\repos\haber uygulamsı\haber uygulamsı\bin\Debug\haber uygulamsı.exe.config
+C:\Users\Lab1_1\source\repos\haber uygulamsı\haber uygulamsı\bin\Debug\haber uygulamsı.exe
+C:\Users\Lab1_1\source\repos\haber uygulamsı\haber uygulamsı\bin\Debug\haber uygulamsı.pdb
+C:\Users\Lab1_1\source\repos\haber uygulamsı\haber uygulamsı\obj\Debug\haber uygulamsı.csprojResolveAssemblyReference.cache
+C:\Users\Lab1_1\source\repos\haber uygulamsı\haber uygulamsı\obj\Debug\haber_uygulamsı.Form1.resources
+C:\Users\Lab1_1\source\repos\haber uygulamsı\haber uygulamsı\obj\Debug\haber_uygulamsı.Properties.Resources.resources
+C:\Users\Lab1_1\source\repos\haber uygulamsı\haber uygulamsı\obj\Debug\haber uygulamsı.csproj.GenerateResource.Cache
+C:\Users\Lab1_1\source\repos\haber uygulamsı\haber uygulamsı\obj\Debug\haber uygulamsı.csproj.CoreCompileInputs.cache
+C:\Users\Lab1_1\source\repos\haber uygulamsı\haber uygulamsı\obj\Debug\haber uygulamsı.exe
+C:\Users\Lab1_1\source\repos\haber uygulamsı\haber uygulamsı\obj\Debug\haber uygulamsı.pdb
+C:\Users\Lab1_1\source\repos\haber uygulamsı\haber uygulamsı\obj\Debug\haber_uygulamsı.Form2.resources
+C:\Users\Emre\Desktop\haber uygulamsı\haber uygulamsı\obj\Debug\haber uygulamsı.csprojAssemblyReference.cache
+C:\Users\Emre\Desktop\haber uygulamsı\haber uygulamsı\obj\Debug\haber uygulamsı.exe
+C:\Users\Emre\Desktop\haber uygulamsı\haber uygulamsı\obj\Debug\haber uygulamsı.pdb
+C:\Users\Emre\Desktop\haber uygulamsı\haber uygulamsı\bin\Debug\haber uygulamsı.exe.config
+C:\Users\Emre\Desktop\haber uygulamsı\haber uygulamsı\bin\Debug\haber uygulamsı.exe
+C:\Users\Emre\Desktop\haber uygulamsı\haber uygulamsı\bin\Debug\haber uygulamsı.pdb
+C:\Users\Emre\Desktop\haber uygulamsı\haber uygulamsı\obj\Debug\haber_uygulamsı.Form1.resources
+C:\Users\Emre\Desktop\haber uygulamsı\haber uygulamsı\obj\Debug\haber_uygulamsı.Form2.resources
+C:\Users\Emre\Desktop\haber uygulamsı\haber uygulamsı\obj\Debug\haber_uygulamsı.Properties.Resources.resources
+C:\Users\Emre\Desktop\haber uygulamsı\haber uygulamsı\obj\Debug\haber uygulamsı.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\haber uygulamsı\haber uygulamsı\obj\Debug\haber uygulamsı.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\kodlama\haber uygulamsı\haber uygulamsı\bin\Debug\haber uygulamsı.exe.config
+C:\Users\Emre\Desktop\kodlama\haber uygulamsı\haber uygulamsı\bin\Debug\haber uygulamsı.exe
+C:\Users\Emre\Desktop\kodlama\haber uygulamsı\haber uygulamsı\bin\Debug\haber uygulamsı.pdb
+C:\Users\Emre\Desktop\kodlama\haber uygulamsı\haber uygulamsı\obj\Debug\haber uygulamsı.csprojAssemblyReference.cache
+C:\Users\Emre\Desktop\kodlama\haber uygulamsı\haber uygulamsı\obj\Debug\haber_uygulamsı.Form1.resources
+C:\Users\Emre\Desktop\kodlama\haber uygulamsı\haber uygulamsı\obj\Debug\haber_uygulamsı.Form2.resources
+C:\Users\Emre\Desktop\kodlama\haber uygulamsı\haber uygulamsı\obj\Debug\haber_uygulamsı.Properties.Resources.resources
+C:\Users\Emre\Desktop\kodlama\haber uygulamsı\haber uygulamsı\obj\Debug\haber uygulamsı.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\kodlama\haber uygulamsı\haber uygulamsı\obj\Debug\haber uygulamsı.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\kodlama\haber uygulamsı\haber uygulamsı\obj\Debug\haber uygulamsı.exe
+C:\Users\Emre\Desktop\kodlama\haber uygulamsı\haber uygulamsı\obj\Debug\haber uygulamsı.pdb
